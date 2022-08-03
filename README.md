@@ -1,2 +1,0 @@
-# Git-course
-github course
